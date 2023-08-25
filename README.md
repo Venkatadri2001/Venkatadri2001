@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Venkatadri Majjari
+- 👀 I’m interested in Web Development
+- 📫 How to reach me majjarivenkatadri@gmail.com
