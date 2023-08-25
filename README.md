@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Venkatadri Majjari
-- 👀 I’m interested in Web Development
+- 🎯I’m interested in Web Development
 - 📫 How to reach me majjarivenkatadri@gmail.com
+- 👀 To know more about me by https://venkatadri2001.github.io/myPortfolio/
