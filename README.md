@@ -2,3 +2,4 @@
 - 🎯I’m interested in Web Development
 - 📫 How to reach me majjarivenkatadri@gmail.com
 - 👀 To know more about me by https://venkatadri2001.github.io/myPortfolio/
+- 👀 My Linkedin https://www.linkedin.com/in/venkatadri-majjari-b1113a243
