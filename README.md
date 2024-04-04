@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Venkatadri 
 - 🎯 I’m interested in Software Engineering and Web Development
-- 🌱 I'm Currently Learning Python Full Stack Development
+- 🌱 I'm Currently Learning Python Full Stack and Web Development
 - 📫 How to reach me majjarivenkatadri@gmail.com
 - 👀 To know more about me by https://venkatadri1718.github.io/MyPortfolio/
 - 👀 My Linkedin https://www.linkedin.com/in/venkatadri-majjari-b1113a243
