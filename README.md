@@ -3,4 +3,4 @@
 - 🌱 I'm Currently Learning Python Full Stack and Web Development
 - 📫 How to reach me majjarivenkatadri@gmail.com
 - 👀 To know more about me by https://venkatadri2001.github.io/MyPortfolio/
-- 👀 My Linkedin https://www.linkedin.com/in/venkatadri-majjari/
+- 👀 My Linkedin https://www.linkedin.com/in/venkatadrimajjari/
