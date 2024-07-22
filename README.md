@@ -2,5 +2,5 @@
 - 🎯 I’m interested in Software Engineering and Web Development
 - 🌱 I'm Currently Learning Python Full Stack and Web Development
 - 📫 How to reach me majjarivenkatadri@gmail.com
-- 👀 To know more about me by https://venkatadri2001.github.io/MyPortfolio/
+- 👀 To know more about me by https://venkatadri2001.github.io/PortFolio/
 - 👀 My Linkedin https://www.linkedin.com/in/venkatadrimajjari/
