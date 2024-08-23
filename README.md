@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Venkatadri Majjari
-- 🎯 I’m interested in IT Roles.
+- 🎯 I’m ready for work as Software Engineer, Full Stack Developer
 - 🌱 I'm certified in Python Full Stack and Web Development.
 - 📫 How to reach me majjarivenkatadri@gmail.com
 - 👀 To know more about me by https://venkatadri2001.github.io/PortFolio/
